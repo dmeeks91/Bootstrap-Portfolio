@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Homework Part 1 - Create portfolio using bootstrap
+Week #2 Homework Part 1 - Create portfolio using bootstrap
